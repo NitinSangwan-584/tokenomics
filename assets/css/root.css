@@ -1,0 +1,131 @@
+:root {
+    --font-poppins: "Poppins", sans-serif;
+    --text-sm: 18px;
+    --text-14: 14px;
+    --text-28: 28px;
+    --text-md: 22px;
+    --text-lg: 48px;
+    --fw-normal: 400;
+    --fw-semibold: 600;
+    --lh-33px: 33px;
+    --lh-42px: 42px;
+    --lh-25px: 25.2px;
+    --lh-32px: 32.4px;
+    --lh-61px: 61.44px;
+    --bg-green: #00E396;
+    --bg-orange: #F06500;
+    --bg-voilet: #8B35E2;
+    --bg-blue: #00B2FF;
+    --bg-yellow: #FFA800;
+    --bg-red: #FF4560;
+    --bg-black: #0C0B0B;
+    --color-grey: #62656D;
+    --color-white: #FFFFFF;
+    --color-light-grey: #9197A6;
+    --color-orange: #F06500;
+    --bg-dark: #0C0C0C;
+}
+
+.font-poppins {
+    font-family: var(--font-poppins);
+}
+
+.font-lato {
+    font-family: var(--font-lato);
+}
+
+.text-14 {
+    font-size: var(--text-14);
+}
+
+.text-28 {
+    font-size: var(--text-28);
+}
+
+.text-sm {
+    font-size: var(--text-sm);
+}
+
+.text-md {
+    font-size: var(--text-md);
+}
+
+.text-lg {
+    font-size: var(--text-lg);
+}
+
+.fw-normal {
+    font-weight: var(--fw-normal);
+}
+
+.fw-semibold {
+    font-weight: var(--fw-semibold);
+}
+
+.lh-25px {
+    line-height: var(--lh-25px);
+}
+
+.lh-42px {
+    line-height: var(--lh-42px);
+}
+
+.lh-32px {
+    line-height: var(--lh-32px);
+}
+
+.lh-61px {
+    line-height: var(--lh-61px);
+}
+
+.lh-33px {
+    line-height: var(--lh-33px);
+}
+
+.bg-black {
+    background-color: var(--bg-black);
+}
+
+.color-grey {
+    color: var(--color-grey);
+}
+
+.color-light-grey {
+    color: var(--color-light-grey);
+}
+
+.color-white {
+    color: var(--color-white);
+}
+
+.color-orange {
+    color: var(--color-orange);
+}
+
+.bg-dark {
+    background-color: var(--bg-dark);
+}
+
+.bg-orange {
+    background-color: var(--bg-orange);
+}
+
+.bg-blue {
+    background-color: var(--bg-blue);
+}
+
+.bg-voilet {
+    background-color: var(--bg-voilet);
+}
+
+.bg-yellow {
+    background-color: var(--bg-yellow);
+}
+
+.bg-green {
+    background-color: var(--bg-green);
+}
+
+.bg-red {
+    background-color: var(--bg-red);
+}
