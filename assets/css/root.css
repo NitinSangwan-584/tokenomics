@@ -129,3 +129,10 @@
 .bg-red {
     background-color: var(--bg-red);
 }
+
+@media (max-width:767.98px) {
+    :root {
+        --text-lg: 45px;
+        --lh-61px: 55px;
+    }
+}
